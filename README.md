@@ -18,6 +18,11 @@ A fictional sales analysis for a clothing brand — 12 months of data, business 
 - **Veste** peaks in winter (Dec), **T-shirt** peaks in summer
 - Forecast: ~11 300€ → 12 100€ over the next 3 months
 
+## How to Run
+1. Clone the repository
+2. Install dependencies : `pip install pandas numpy matplotlib`
+3. Run `python3 sales_intelligence.py`
+
 ## Visualizations
 ![CA vs Volume](graph_mixte.png)
 ![Saisonnalité](graph_saisonnalite.png)
